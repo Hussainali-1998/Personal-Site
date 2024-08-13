@@ -1,0 +1,70 @@
+.d-block {
+    border-radius: 50%;
+}
+
+.display-4 {
+    
+    padding-top: 2rem;
+    font-family: "Gabarito", sans-serif;
+    font-weight: 700;
+}
+
+.lead {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-size: 1.75rem;
+}
+
+.profile-pic {
+    border-radius: 50%;
+}
+
+.text-body-emphasis {
+    font-family: "Gabarito", sans-serif;
+    font-weight: 600;
+    padding-top: 30px;
+
+}
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+}
+
+h2 {
+    font-family: "Gabarito", sans-serif;
+}
+
+.card-text {
+    font-family: "Open Sans", sans-serif;
+    font-size: medium;
+    text-align: justify;
+
+}
+
+.nav-link {
+    color: white;
+
+}
+
+.title-touch {
+    font-family: "Gabarito", sans-serif;
+    font-size: xx-larger ;
+}
+
+.touch-text {
+    font-family: "Gabarito", sans-serif;
+    font-size: x-larger ;
+}
+
+.under-touch-text {
+    font-family: "Open Sans", sans-serif;
+    font-size: larger   ;
+}
+
+.footer-section {
+    background-color: rgb(255, 165, 165);
+    margin: none;
+    
+}
